@@ -13,10 +13,7 @@ Documentación de la API (Pixabay):<br>
 https://pixabay.com/api/docs/<br>
 
 Demostración de la APP en funcionamiento<br>
-
-<div align="center">
-    <img src="C:\Users\steev\Downloads\Screenshot_20201107-104500.jpg" width="400px"</img> 
-</div>
+https://github.com/ColateralS/appReactNative/issues/1#issue-738267598
 
 
 Desarrollado por: Steeven Ortega<br>
